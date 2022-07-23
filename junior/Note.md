@@ -66,6 +66,7 @@
 			- my.init
 
 				![9-6.png](9-6.png)
+
 				![9-7.png](9-7.png)
 
 			- restart mysql
