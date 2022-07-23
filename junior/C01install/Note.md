@@ -1,4 +1,4 @@
-# MySQL 数据库 初级篇 Windows
+# MySQL 数据库 初级篇 Windows 第二章 安装和基本概念
 
 ## 6 卸载
 
